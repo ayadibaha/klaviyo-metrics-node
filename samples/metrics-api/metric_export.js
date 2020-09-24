@@ -1,7 +1,7 @@
 // Import the KlaviyoClient to work with
-const KlaviyoClient = require('../index');
+const KlaviyoMetricsClient = require('../index');
 // Create a new instance of that Client
-const kc = new KlaviyoClient('pk_b9632c544bf766d3c8dada68233dbb148b');
+const kc = new KlaviyoMetricsClient('pk_b9632c544bf766d3c8dada68233dbb148b');
 /**
  * Get all metrics from Klaviyo
  */
