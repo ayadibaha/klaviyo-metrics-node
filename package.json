@@ -1,0 +1,24 @@
+{
+  "name": "klaviyo-metrics",
+  "version": "1.0.0",
+  "description": "A Klaviyo wrapper to easily use Klaviyo's API in NodeJS environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Klaviyo",
+    "Metrics",
+    "E-commerce",
+    "Statistics",
+    "Wrapper",
+    "Emailing",
+    "Channel",
+    "Marketing"
+  ],
+  "author": "Baha Eddine Ayadi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
