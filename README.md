@@ -12,10 +12,26 @@ NPM:
 $ npm install klaviyo-metrics-node
 ```
 
-## TODO
+## Usage
 
-- Test the functionnalities in a real project environment
-- Add more sample code
+1- Include the library
+```bash
+const KlaviyoMetricsClient = require("klaviyo-metrics-node");
+```
+
+2- Create a new instance of the client
+```bash
+const kc = new KlaviyoMetricsClient("PRIVATE_API_KEY");
+```
+
+3- Get what you want from the Metrics API
+
+## Examples
+
+[All Metrics](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/all_metrics.js)
+[All Metrics Timeline](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/all_metrics_timeline.js)
+[Metric Export](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/metric_export.js)
+[Metric Timeline](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/metric_timeline.js)
 
 ## Credits
 
