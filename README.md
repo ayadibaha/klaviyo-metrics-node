@@ -1,6 +1,12 @@
 # Klaviyo Node
 
+Klaviyo node is a module to integrate Klaviyo's API easily in a NodeJS environment.
+
 ## TODO
+
+- Test the functionnalities in a real project environment
+- Add wrappers for the other APIs
+- Add more sample code
 
 ## Credits
 
