@@ -29,9 +29,13 @@ const kc = new KlaviyoMetricsClient("PRIVATE_API_KEY");
 ## Examples
 
 [All Metrics](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/all_metrics.js)
+
 [All Metrics Timeline](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/all_metrics_timeline.js)
+
 [Metric Export](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/metric_export.js)
+
 [Metric Timeline](https://github.com/ayadibaha/klaviyo-metrics-node/blob/master/samples/metrics-api/metric_timeline.js)
+
 
 ## Credits
 
