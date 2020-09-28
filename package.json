@@ -1,7 +1,7 @@
 {
-  "name": "klaviyo-node",
+  "name": "klaviyo-metrics-node",
   "version": "1.0.0",
-  "description": "A Klaviyo wrapper to easily use Klaviyo's API in NodeJS environment.",
+  "description": "A Klaviyo wrapper to easily use Klaviyo's Metrics API in NodeJS environment.",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/ayadibaha/klaviyo-node/issues"
