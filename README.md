@@ -4,6 +4,13 @@
 
 Klaviyo-metrics node is a module to integrate Klaviyo's Metrics API easily in a NodeJS environment.
 
+## Installation
+
+NPM:
+```bash
+$ npm install klaviyo-metrics-node
+```
+
 ## TODO
 
 - Test the functionnalities in a real project environment
