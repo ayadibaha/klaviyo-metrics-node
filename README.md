@@ -1,4 +1,6 @@
 # Klaviyo-Metrics Node
+[![install size](https://packagephobia.com/badge?p=klaviyo-metrics-node)](https://packagephobia.com/result?p=klaviyo-metrics-node)
+[![Open Source Helpers](https://www.codetriage.com/ayadibaha/klaviyo-node/badges/users.svg)](https://www.codetriage.com/ayadibaha/klaviyo-node)
 
 Klaviyo-metrics node is a module to integrate Klaviyo's Metrics API easily in a NodeJS environment.
 
