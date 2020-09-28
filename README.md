@@ -1,4 +1,5 @@
 # Klaviyo-Metrics Node
+[![npm version](https://badge.fury.io/js/klaviyo-metrics-node.png)](https://www.npmjs.com/package/klaviyo-metrics-node)
 [![install size](https://packagephobia.com/badge?p=klaviyo-metrics-node)](https://packagephobia.com/result?p=klaviyo-metrics-node)
 [![Open Source Helpers](https://www.codetriage.com/ayadibaha/klaviyo-node/badges/users.svg)](https://www.codetriage.com/ayadibaha/klaviyo-node)
 
